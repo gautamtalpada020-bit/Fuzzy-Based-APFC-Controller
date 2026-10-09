@@ -1,0 +1,1 @@
+Fuzzy-Based Automatic Power Factor Controller (APFC) using Python and Fuzzy Logic. This project uses power factor and reactive power inputs to determine capacitor switching steps for power factor correction 
